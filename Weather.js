@@ -1,3 +1,4 @@
+//for styling add css
 import React from 'react'
 import { useState } from 'react';
 const Weather = () => {
